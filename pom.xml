@@ -59,6 +59,11 @@
             <artifactId>spring-cloud-context</artifactId>
             <version>2.1.1.RELEASE</version>
         </dependency>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.33</version>
+        </dependency>
     </dependencies>
 
     <build>
