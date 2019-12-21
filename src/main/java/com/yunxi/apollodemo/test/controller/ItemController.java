@@ -40,4 +40,5 @@ public class ItemController {
         System.out.println("商品2=" + JSON.toJSONString(itemDao.query(2)));
         System.out.println("商品3=" + JSON.toJSONString(itemDao.query(3)));
     }
+
 }
